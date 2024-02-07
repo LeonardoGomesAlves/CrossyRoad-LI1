@@ -1,6 +1,7 @@
 # CrossyRoad-LI1
 
-Game inspired by the classic Crossy Road, made in Haskell for the IT Labs 1, subject of the first year of Software Engineering Engineering at the University of Minho 2022/2023.
+Game inspired by the classic Crossy Road, made in Haskell for the IT Labs 1, subject of the first year of Software Engineering at the University of Minho 2022/2023.
+As it was the 1st project related with programming, we had to complete the tasks that were given to us, in order to make the game functional.
 
 ## Dependencies
 
