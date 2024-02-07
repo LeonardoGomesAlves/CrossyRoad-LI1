@@ -12,5 +12,16 @@ $ sudo apt install gloss
 $ sudo apt install cabal
 $ sudo apt install --lib random
 ```
+## Run
+
+1. Running with cabal
+```bash
+$ cabal repl
+```
+2. Running with GHC
+```bash
+$ ghci -i="src" -i="tests" src/Main.hs
+``` 
+
 
 <h4>Grade: 18/20  </h4>
